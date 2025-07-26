@@ -1,0 +1,7 @@
+Model,RMSE,MAE,R²
+Linear Regression,0.085,0.066,0.37
+Random Forest,0.044,0.033,0.83
+Random Forest (5 features),0.055,0.041,0.74
+LightGBM,0.042,0.031,0.85
+SVR,0.052,0.037,0.77
+ANN,0.051,0.038,0.77
